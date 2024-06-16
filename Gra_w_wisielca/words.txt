@@ -1,0 +1,267 @@
+kot, zwierzeta
+pies, zwierzeta
+kon, zwierzeta
+ptak, zwierzeta
+ryba, zwierzeta
+zolw, zwierzeta
+lew, zwierzeta
+slon, zwierzeta
+zyrafa, zwierzeta
+malpa, zwierzeta
+nosorozec, zwierzeta
+jelen, zwierzeta
+zubr, zwierzeta
+bizon, zwierzeta
+pingwin, zwierzeta
+samolot, srodki transportu
+auto, srodki transportu
+rower, srodki transportu
+statek, srodki transportu
+lodz, srodki transportu
+helikopter, srodki transportu
+pociag, srodki transportu
+tramwaj, srodki transportu
+motocykl, srodki transportu
+skuter, srodki transportu
+autobus, srodki transportu
+ciezarowka, srodki transportu
+taksowka, srodki transportu
+limuzyna, srodki transportu
+rakieta, srodki transportu
+dom, budynki
+mieszkanie, budynki
+budynek, budynki
+willa, budynki
+apartament, budynki
+domek, budynki
+szkola, budynki
+uniwersytet, budynki
+kosciol, budynki
+synagoga, budynki
+meczet, budynki
+szpital, budynki
+restauracja, budynki
+hotel, budynki
+hostel, budynki
+sok, napoje
+herbata, napoje
+kawa, napoje
+woda, napoje
+mleko, napoje
+piwo, napoje
+wino, napoje
+whisky, napoje
+cola, napoje
+sok, napoje
+szampan, napoje
+limonada, napoje
+koktajl, napoje
+energetyk, napoje
+kakao, napoje
+chleb, jedzenie
+mleko, jedzenie
+ser, jedzenie
+maslo, jedzenie
+jajko, jedzenie
+makaron, jedzenie
+ryz, jedzenie
+kasza, jedzenie
+ziemniak, jedzenie
+warzywa, jedzenie
+owoce, jedzenie
+mieso, jedzenie
+ryby, jedzenie
+chipsy, jedzenie
+czipsy, jedzenie
+mus, jedzenie
+teatr, miejsca
+kino, miejsca
+basen, miejsca
+park, miejsca
+stadion, miejsca
+muzeum, miejsca
+biblioteka, miejsca
+szpital, miejsca
+koszary, miejsca
+biuro, miejsca
+szkola, miejsca
+uniwersytet, miejsca
+kosciol, miejsca
+synagoga, miejsca
+meczet, miejsca
+parking, miejsca
+port, miejsca
+dworzec, miejsca
+lotnisko, miejsca
+plac, miejsca
+ulica, miejsca
+pole, miejsca
+plaza, miejsca
+gory, miejsca
+jaskinia, miejsca
+las, miejsca
+rzeka, miejsca
+jezioro, miejsca
+morze, miejsca
+pustynia, miejsca
+pole, miejsca
+ogrod, miejsca
+wioska, miejsca
+miasto, miejsca
+miasteczko, miejsca
+stolica, miejsca
+wies, miejsca
+dwor, miejsca
+dolina, miejsca
+szczyt, miejsca
+pagorek, miejsca
+gora, miejsca
+park, miejsca
+dolina, miejsca
+wzgorze, miejsca
+wzgorze, miejsca
+wzgorze, miejsca
+wzgorze, miejsca
+pilka, sport
+narty, sport
+rower, sport
+bieganie, sport
+plywanie, sport
+jazda konna, sport
+koszykowka, sport
+pilka reczna, sport
+siatkowka, sport
+pilka nozna, sport
+hokej, sport
+golf, sport
+tenis, sport
+badminton, sport
+lyzwiarstwo, sport
+skoki narciarskie, sport
+skateboard, sport
+surfing, sport
+wspinaczka, sport
+wioslarstwo, sport
+boks, sport
+karate, sport
+kickboxing, sport
+szachy, sport
+brydz, sport
+poker, sport
+szermierka, sport
+gimnastyka, sport
+triatlon, sport
+motocross, sport
+formula 1, sport
+silownia, sport
+planeta, kosmos
+gwiazda, kosmos
+ksiezyc, kosmos
+asteroida, kosmos
+meteoryt, kosmos
+kometa, kosmos
+galaktyka, kosmos
+satelita, kosmos
+teleskop, kosmos
+kosmos, kosmos
+przestrzen, kosmos
+orbita, kosmos
+meteor, kosmos
+pulsar, kosmos
+czarna dziura, kosmos
+czerwony karzel, kosmos
+supernowa, kosmos
+kosmiczny statek, kosmos
+miedzygwiezdna, kosmos
+zorza polarna, kosmos
+programowanie, informatyka
+algorytm, informatyka
+komputer, informatyka
+siec, informatyka
+internet, informatyka
+aplikacja, informatyka
+serwer, informatyka
+baza danych, informatyka
+system operacyjny, informatyka
+kodowanie, informatyka
+cybernetyka, informatyka
+sztuczna inteligencja, informatyka
+maszynowe uczenie, informatyka
+bezpieczenstwo komputerowe, informatyka
+programista, informatyka
+grafika komputerowa, informatyka
+interfejs uzytkownika, informatyka
+komputer kwantowy, informatyka
+rozproszony system, informatyka
+rodzina, rodzina
+matka, rodzina
+ojciec, rodzina
+dziecko, rodzina
+siostra, rodzina
+brat, rodzina
+dziadek, rodzina
+babcia, rodzina
+wnuk, rodzina
+wnuczka, rodzina
+ciocia, rodzina
+wujek, rodzina
+kuzyn, rodzina
+kuzynka, rodzina
+szwagier, rodzina
+bratowa, rodzina
+tesc, rodzina
+tesciowa, rodzina
+rodzenstwo, rodzina
+siostrzeniec, rodzina
+milosc, zwiazek
+malzenstwo, zwiazek
+partnerstwo, zwiazek
+narzeczony, zwiazek
+narzeczona, zwiazek
+zonaty, zwiazek
+mezatka, zwiazek
+chlopak, zwiazek
+dziewczyna, zwiazek
+randka, zwiazek
+romans, zwiazek
+wiernosc, zwiazek
+rozstanie, zwiazek
+przyjazn, zwiazek
+pozycie, zwiazek
+zakochanie, zwiazek
+zaangazowanie, zwiazek
+rozwod, zwiazek
+dom, budownictwo
+budynek, budownictwo
+mieszkanie, budownictwo
+apartament, budownictwo
+willa, budownictwo
+szkola, budownictwo
+uniwersytet, budownictwo
+kosciol, budownictwo
+synagoga, budownictwo
+meczet, budownictwo
+szpital, budownictwo
+restauracja, budownictwo
+hotel, budownictwo
+hostel, budownictwo
+biurowiec, budownictwo
+fabryka, budownictwo
+centrum handlowe, budownictwo
+teatr, budownictwo
+kino, budownictwo
+muzeum, budownictwo
+gra, game dev
+programista gier, game dev
+silnik gry, game dev
+grafika komputerowa, game dev
+animacja, game dev
+fizyka gry, game dev
+sztuczna inteligencja, game dev
+projektowanie poziomow, game dev
+interfejs uzytkownika, game dev
+tryb wieloosobowy, game dev
+tryb jednoosobowy, game dev
+efekty dzwiekowe, game dev
+testowanie gier, game dev
+beta tester, game dev
